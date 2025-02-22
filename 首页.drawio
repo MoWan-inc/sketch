@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="3154" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1982" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,19 +26,19 @@
           <mxGeometry x="-550" y="335" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-29" value="买车" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-570" y="860" width="40" height="20" as="geometry" />
+          <mxGeometry x="-460" y="860" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9cHaTxTzMB9iF8-N8q42-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="810" width="50" height="50" as="geometry" />
+          <mxGeometry x="-471" y="810" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9cHaTxTzMB9iF8-N8q42-2" value="卖车" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-410" y="860" width="40" height="20" as="geometry" />
+          <mxGeometry x="-360" y="860" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9cHaTxTzMB9iF8-N8q42-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="-270" y="810" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9cHaTxTzMB9iF8-N8q42-4" value="个人中心" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-270" y="860" width="40" height="20" as="geometry" />
+        <mxCell id="9cHaTxTzMB9iF8-N8q42-4" value="我的" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="-262" y="860" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9cHaTxTzMB9iF8-N8q42-5" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;strokeColor=default;verticalAlign=top;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="-640" y="130" width="510" height="10" as="geometry" />
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="9cHaTxTzMB9iF8-N8q42-13" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="599" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8SUxH7G7E16ZweXcw-c2-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="810" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8SUxH7G7E16ZweXcw-c2-2" value="首页" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="-565" y="860" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
