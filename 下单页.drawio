@@ -264,7 +264,7 @@
         <mxCell id="tfet2PYDgOYckw5xy6OB-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;个人卖家/认证二手车商&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tfet2PYDgOYckw5xy6OB-1">
           <mxGeometry x="270" y="77" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tfet2PYDgOYckw5xy6OB-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单确认&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;" vertex="1" parent="tfet2PYDgOYckw5xy6OB-1">
+        <mxCell id="tfet2PYDgOYckw5xy6OB-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;订单确认&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;" vertex="1" parent="tfet2PYDgOYckw5xy6OB-1">
           <mxGeometry x="293.5" y="29" width="126" height="18" as="geometry" />
         </mxCell>
         <mxCell id="tfet2PYDgOYckw5xy6OB-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="tfet2PYDgOYckw5xy6OB-1">
