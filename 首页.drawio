@@ -457,7 +457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OIHIc8pCTU5nijWNp9Nd" name="我的">
-    <mxGraphModel dx="10061" dy="4306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7098" dy="2738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,25 +531,25 @@
           <mxGeometry x="-995" y="310" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dYWE1HeFHoQGSfVkS1wE-61" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;待检测&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-985" y="397.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="-872.5" y="397.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYWE1HeFHoQGSfVkS1wE-62" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="-875" y="310" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dYWE1HeFHoQGSfVkS1wE-63" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;待发货&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-865" y="397.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="-745" y="397.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYWE1HeFHoQGSfVkS1wE-64" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="-755" y="310" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dYWE1HeFHoQGSfVkS1wE-65" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;待收货&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-745" y="397.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="-618.75" y="397.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYWE1HeFHoQGSfVkS1wE-66" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="-628.75" y="310" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dYWE1HeFHoQGSfVkS1wE-67" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;售后&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-618.75" y="397.5" width="50" height="30" as="geometry" />
+        <mxCell id="dYWE1HeFHoQGSfVkS1wE-67" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;全部&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="-985" y="397.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYWE1HeFHoQGSfVkS1wE-68" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="-392.5" y="310" width="70" height="70" as="geometry" />
@@ -695,25 +695,22 @@
           <mxGeometry x="-2200" y="10" width="920" height="10" as="geometry" />
         </mxCell>
         <mxCell id="cOCaMDXe-KHaCmgdZDtC-2" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;全部&lt;/font&gt;&lt;/b&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-2160" y="-40" width="70" height="30" as="geometry" />
+          <mxGeometry x="-2090" y="-40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cOCaMDXe-KHaCmgdZDtC-12" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;待&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2030px%3B%26quot%3B%26gt%3B%E5%85%A8%E9%83%A8%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DVerdana%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-2180%22%20y%3D%22-40%22%20width%3D%2270%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;付&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2030px%3B%26quot%3B%26gt%3B%E5%85%A8%E9%83%A8%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DVerdana%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-2180%22%20y%3D%22-40%22%20width%3D%2270%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;款&lt;/font&gt;&lt;/b&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-2060" y="-40" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1990" y="-40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cOCaMDXe-KHaCmgdZDtC-13" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待检测&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2030px%3B%26quot%3B%26gt%3B%E5%BE%85%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%2526lt%253Bb%2520style%253D%2526quot%253B%2526quot%253B%2526gt%253B%2526lt%253Bfont%2520style%253D%2526quot%253Bfont-size%253A%252030px%253B%2526quot%253B%2526gt%253B%25E5%2585%25A8%25E9%2583%25A8%2526lt%253B%252Ffont%2526gt%253B%2526lt%253B%252Fb%2526gt%253B%2522%2520style%253D%2522text%253Bhtml%253D1%253Bpoints%253D%255B%255D%253Balign%253Dcenter%253BverticalAlign%253Dtop%253BspacingTop%253D-4%253BfontSize%253D14%253BfontFamily%253DVerdana%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522-2180%2522%2520y%253D%2522-40%2522%2520width%253D%252270%2522%2520height%253D%252230%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2030px%3B%26quot%3B%26gt%3B%E4%BB%98%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%2526lt%253Bb%2520style%253D%2526quot%253B%2526quot%253B%2526gt%253B%2526lt%253Bfont%2520style%253D%2526quot%253Bfont-size%253A%252030px%253B%2526quot%253B%2526gt%253B%25E5%2585%25A8%25E9%2583%25A8%2526lt%253B%252Ffont%2526gt%253B%2526lt%253B%252Fb%2526gt%253B%2522%2520style%253D%2522text%253Bhtml%253D1%253Bpoints%253D%255B%255D%253Balign%253Dcenter%253BverticalAlign%253Dtop%253BspacingTop%253D-4%253BfontSize%253D14%253BfontFamily%253DVerdana%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522-2180%2522%2520y%253D%2522-40%2522%2520width%253D%252270%2522%2520height%253D%252230%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2030px%3B%26quot%3B%26gt%3B%E6%AC%BE%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DVerdana%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-2080%22%20y%3D%22-40%22%20width%3D%2270%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-1940" y="-40" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1870" y="-40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cOCaMDXe-KHaCmgdZDtC-14" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待发货&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-1810" y="-40" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1740" y="-40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cOCaMDXe-KHaCmgdZDtC-15" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待收货&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-1680" y="-40" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1610" y="-40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cOCaMDXe-KHaCmgdZDtC-16" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待评价&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-1540" y="-40" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cOCaMDXe-KHaCmgdZDtC-20" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;售后中&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-1410" y="-40" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1470" y="-40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cOCaMDXe-KHaCmgdZDtC-21" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="-145" width="970" height="1680" as="geometry" />
@@ -1051,7 +1048,7 @@
         <mxCell id="nblnkZC9ARfNLWaV6lf3-48" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="450" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="nblnkZC9ARfNLWaV6lf3-49" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;订单流程界面，包括状态等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nblnkZC9ARfNLWaV6lf3-49" value="&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;显示详细信息&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;支付成功-&amp;gt;车辆检验-&amp;gt;发货-&amp;gt;已送达&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3390" y="-17.5" width="970" height="567.5" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-50" value="" style="shape=display;whiteSpace=wrap;html=1;rotation=-180;fillColor=none;size=0.005154639175257733;" vertex="1" parent="1">
@@ -1073,25 +1070,31 @@
           <mxGeometry x="-3365" y="855" width="920" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-56" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;卖方信息&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3B%26quot%3B%26gt%3B%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2031px%3B%26quot%3B%26gt%3B%E5%AE%9E%E4%BB%98%E6%AC%BE%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DVerdana%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-3417%22%20y%3D%22795%22%20width%3D%22327%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="-3427" y="900" width="327" height="30" as="geometry" />
+          <mxGeometry x="-3432" y="870" width="327" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-57" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;订单编号&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2031px%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E5%8D%96%E6%96%B9%E4%BF%A1%E6%81%AF%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%2526lt%253Bb%2520style%253D%2526quot%253B%2526quot%253B%2526gt%253B%2526lt%253Bfont%2520style%253D%2526quot%253Bfont-size%253A%252031px%253B%2526quot%253B%2526gt%253B%25E5%25AE%259E%25E4%25BB%2598%25E6%25AC%25BE%2526lt%253B%252Ffont%2526gt%253B%2526lt%253B%252Fb%2526gt%253B%2522%2520style%253D%2522text%253Bhtml%253D1%253Bpoints%253D%255B%255D%253Balign%253Dcenter%253BverticalAlign%253Dtop%253BspacingTop%253D-4%253BfontSize%253D14%253BfontFamily%253DVerdana%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522-3417%2522%2520y%253D%2522795%2522%2520width%253D%2522327%2522%2520height%253D%252230%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DVerdana%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-3427%22%20y%3D%22900%22%20width%3D%22327%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="-3417" y="960" width="327" height="30" as="geometry" />
+          <mxGeometry x="-3432" y="930" width="327" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-58" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;发货渠道&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="-3427" y="1020" width="327" height="30" as="geometry" />
+          <mxGeometry x="-3432" y="990" width="327" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-59" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;创建时间&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2031px%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E5%8F%91%E8%B4%A7%E6%B8%A0%E9%81%93%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DVerdana%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-3427%22%20y%3D%221020%22%20width%3D%22327%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="-3427" y="1080" width="327" height="30" as="geometry" />
+          <mxGeometry x="-3432" y="1100" width="327" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-60" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;完成时间&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2031px%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E5%88%9B%E5%BB%BA%E6%97%B6%E9%97%B4%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%2526lt%253Bspan%2520style%253D%2526quot%253Bfont-size%253A%252031px%253B%2526quot%253B%2526gt%253B%2526lt%253Bb%2526gt%253B%25E5%258F%2591%25E8%25B4%25A7%25E6%25B8%25A0%25E9%2581%2593%2526lt%253B%252Fb%2526gt%253B%2526lt%253B%252Fspan%2526gt%253B%2522%2520style%253D%2522text%253Bhtml%253D1%253Bpoints%253D%255B%255D%253Balign%253Dcenter%253BverticalAlign%253Dtop%253BspacingTop%253D-4%253BfontSize%253D14%253BfontFamily%253DVerdana%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522-3427%2522%2520y%253D%25221020%2522%2520width%253D%2522327%2522%2520height%253D%252230%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D14%3BfontFamily%3DVerdana%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-3427%22%20y%3D%221080%22%20width%3D%22327%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="-3427" y="1139" width="327" height="30" as="geometry" />
+          <mxGeometry x="-3432" y="1159" width="327" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-61" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;支付方式&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="-3427" y="1200" width="327" height="30" as="geometry" />
+          <mxGeometry x="-3432" y="1220" width="327" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nblnkZC9ARfNLWaV6lf3-62" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;交易编号&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="-3427" y="1250" width="327" height="30" as="geometry" />
+          <mxGeometry x="-3432" y="1270" width="327" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pfxaaKs65mvkiAQMi35C-2" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;添加印象：像饿了吗评价模式，给出评价维度进行选择，卖家首页显示&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2022px%3B%26quot%3B%26gt%3B%E8%81%94%E7%B3%BB%E5%8D%96%E5%AE%B6%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1690%22%20y%3D%22610%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2125" y="-270" width="705" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pfxaaKs65mvkiAQMi35C-3" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;物流单号&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="-3433.5" y="1050" width="327" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1156,31 +1159,22 @@
           <mxGeometry x="-1040" y="270" width="960" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PauzgM-j6OBvJYPMwCu_-2" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;全部&lt;/font&gt;&lt;/b&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-990" y="220" width="70" height="30" as="geometry" />
+          <mxGeometry x="-780" y="217.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PauzgM-j6OBvJYPMwCu_-3" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待接单&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-890" y="220" width="70" height="30" as="geometry" />
+          <mxGeometry x="-680" y="217.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PauzgM-j6OBvJYPMwCu_-4" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待预约&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-770" y="220" width="70" height="30" as="geometry" />
+        <mxCell id="PauzgM-j6OBvJYPMwCu_-5" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待检测&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="-540" y="217.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PauzgM-j6OBvJYPMwCu_-5" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待发货&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-640" y="220" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PauzgM-j6OBvJYPMwCu_-6" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待收货&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-510" y="220" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PauzgM-j6OBvJYPMwCu_-7" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;待评价&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-370" y="220" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PauzgM-j6OBvJYPMwCu_-8" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;售后中&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="-240" y="220" width="70" height="30" as="geometry" />
+        <mxCell id="PauzgM-j6OBvJYPMwCu_-6" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;检测完成&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="-420" y="217.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uy5GX3xfRpIWCsL7j8Wz-1" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;订单状态&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=80;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="285" width="970" height="330" as="geometry" />
         </mxCell>
         <mxCell id="uy5GX3xfRpIWCsL7j8Wz-2" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;车辆信息&lt;/b&gt;&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="uy5GX3xfRpIWCsL7j8Wz-1" vertex="1">
-          <mxGeometry x="110" y="20" width="327" height="30" as="geometry" />
+          <mxGeometry x="250" y="17.5" width="327" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uy5GX3xfRpIWCsL7j8Wz-4" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;联系卖家&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="uy5GX3xfRpIWCsL7j8Wz-1" vertex="1">
           <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
@@ -1290,8 +1284,8 @@
         <mxCell id="MSUncIZ-uBIPKUCo2-6L-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="770" width="625" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MSUncIZ-uBIPKUCo2-6L-5" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;已预约成功&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="330" y="1040" width="300" height="30" as="geometry" />
+        <mxCell id="MSUncIZ-uBIPKUCo2-6L-5" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 37px;&quot;&gt;&lt;b&gt;已接单成功&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="329" y="1040" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MSUncIZ-uBIPKUCo2-6L-6" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;下一步&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="414" y="1160" width="120" height="60" as="geometry" />
