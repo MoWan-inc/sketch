@@ -1567,7 +1567,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Sj-si89DySlcR9tpQoiR" name="检测中心">
-    <mxGraphModel dx="8567" dy="4829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3095,7 +3095,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dq1Ih-cbICG363ejwz5K" name="待发货">
-    <mxGraphModel dx="832926" dy="1172137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827000" pageHeight="1169000" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827000" pageHeight="1169000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3851,7 +3851,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XNyYMaTixEfq--t7ztRe" name="待收款">
-    <mxGraphModel dx="855926" dy="1103137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850000" pageHeight="1100000" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850000" pageHeight="1100000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
