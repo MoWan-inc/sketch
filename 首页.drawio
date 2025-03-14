@@ -1925,9 +1925,6 @@
         <mxCell id="o_QZzeRpQIwtzL6ZNsu4-91" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;保险选择&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-797" y="1495" width="468" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="o_QZzeRpQIwtzL6ZNsu4-92" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;发货页&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1784" y="2390" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="o_QZzeRpQIwtzL6ZNsu4-93" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-762" y="80" width="71" height="60" as="geometry" />
         </mxCell>
@@ -1992,6 +1989,15 @@
             <mxPoint x="-242" y="130" as="sourcePoint" />
             <mxPoint x="-122" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mmsciWXBlB7fnL6dQ0qP-1" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;不点击是不允许发货&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;点击是，强制弹出协议，下拉到底部并等待10s后才能二次确认&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="2020" width="1270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mmsciWXBlB7fnL6dQ0qP-2" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;发货完成后，跳转待收款页面&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="2218" width="1270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mmsciWXBlB7fnL6dQ0qP-3" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;下拉展开详情&lt;/font&gt;&lt;div&gt;&lt;li data-end=&quot;72&quot; data-start=&quot;44&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;strong data-end=&quot;54&quot; data-start=&quot;46&quot;&gt;车辆清洁&lt;/strong&gt;：建议清洗车辆，方便验车和拍照存证。&lt;/font&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;108&quot; data-start=&quot;73&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;strong data-end=&quot;84&quot; data-start=&quot;75&quot;&gt;拆卸易损件&lt;/strong&gt;：如后视镜、挡风玻璃、护杠等，避免运输途中损坏。&lt;/font&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;147&quot; data-start=&quot;109&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;strong data-end=&quot;119&quot; data-start=&quot;111&quot;&gt;检查油箱&lt;/strong&gt;：油量不宜过多，建议保持在最低安全油位，以降低运输风险。&lt;/font&gt;&lt;/li&gt;&lt;br/&gt;&lt;li data-end=&quot;180&quot; data-start=&quot;148&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;strong data-end=&quot;158&quot; data-start=&quot;150&quot;&gt;备用钥匙&lt;/strong&gt;：建议随车附带备用钥匙，避免运输过程中丢失。&lt;/font&gt;&lt;/li&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1230" width="1270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
